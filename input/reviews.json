@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "user": {
+      "userId": 0
+    },
+    "rating": 4,
+    "comment": "Nice building.",
+    "attraction": {
+      "attractionId": 1
+    }
+  },
+  {
+    "id": 1,
+    "user": {
+      "userId": 0
+    },
+    "rating": 4,
+    "comment": "Nice castle.",
+    "attraction": {
+      "attractionId": 2
+    }
+  },
+  {
+    "id": 2,
+    "user": {
+      "userId": 1
+    },
+    "rating": 5,
+    "comment": "Nice colosseum.",
+    "attraction": {
+      "attractionId": 4
+    }
+  }
+]

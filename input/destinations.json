@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "location": "Budapest",
+    "attractions": [
+      {
+        "attractionId": 0,
+        "name": "Buda Castle",
+        "description": "Buda Castle is the historical castle and palace complex of the Hungarian Kings in Budapest.",
+        "category": "HISTORICAL"
+      },
+      {
+        "attractionId": 1,
+        "name": "Hungarian Parliament Building",
+        "description": "The Hungarian Parliament Building, also known as the Parliament of Budapest after its location, is the seat of the National Assembly of Hungary.",
+        "category": "HISTORICAL"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "location": "Warsaw",
+    "attractions": [
+      {
+        "attractionId": 2,
+        "name": "Royal Castle",
+        "description": "The Royal Castle in Warsaw is a royal residence that formerly served throughout the centuries as the official home of Polish monarchs.",
+        "category": "HISTORICAL"
+      },
+      {
+        "attractionId": 3,
+        "name": "Warsaw Barbican",
+        "description": "The Warsaw Barbican is a barbican in Warsaw, and one of few remaining relics of the complex network of historic fortifications that once encircled Warsaw.",
+        "category": "HISTORICAL"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "location": "Rome",
+    "attractions": [
+      {
+        "attractionId": 4,
+        "name": "Colosseum",
+        "description": "The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum.",
+        "category": "HISTORICAL"
+      },
+      {
+        "attractionId": 5,
+        "name": "Sistine Chapel",
+        "description": "The Sistine Chapel is a chapel in the Apostolic Palace, in Vatican City and the official residence of the pope.",
+        "category": "HISTORICAL"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "location": "Vienna",
+    "attractions": [
+      {
+        "attractionId": 6,
+        "name": "Schönbrunn Palace",
+        "description": "Schönbrunn Palace was the main summer residence of the Habsburg rulers, located in Hietzing, Vienna.",
+        "category": "HISTORICAL"
+      },
+      {
+        "attractionId": 7,
+        "name": "Stadtpark",
+        "description": "The Stadtpark in Vienna, Austria is a large municipal park that extends from the Ringstraße in the Innere Stadt first district up to the Heumarkt in the Landstraße third district.",
+        "category": "NATURE"
+      }
+    ]
+  }
+]

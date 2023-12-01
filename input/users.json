@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "fullName": "Harold Holiday",
+    "credentials": {
+      "username": "harold.holiday01",
+      "password": "123"
+    },
+    "role": "USER"
+  },
+  {
+    "id": 1,
+    "fullName": "Adam Admin",
+    "credentials": {
+      "username": "realadminadam",
+      "password": "123"
+    },
+    "role": "ADMIN"
+  }
+]

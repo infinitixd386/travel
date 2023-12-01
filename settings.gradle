@@ -1,0 +1,5 @@
+rootProject.name = 'ci-gradle-travel'
+include 'app'
+include 'data'
+include 'untitled'
+

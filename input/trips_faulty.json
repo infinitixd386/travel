@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "user": {
+      "userId": 0
+    },
+    "destination": {
+      "destinationId": 0
+    },
+    "visits": [
+      {
+        "visitId": 0,
+        "attraction": {
+          "attractionId": 0
+        },
+        "visitDate": "2018-003-12"
+      },
+      {
+        "visitId": 1,
+        "attraction": {
+          "attractionId": 1
+        },
+        "visitDate": "2018-03-15"
+      }
+    ],
+    "startDate": "2018-30-11",
+    "endDate": "2018-03-17"
+  },
+  {
+    "id": 1,
+    "user": {
+      "userId": 0
+    },
+    "destination": {
+      "destinationId": 1
+    },
+    "visits": [
+      {
+        "visitId": 2,
+        "attraction": {
+          "attractionId": 2
+        },
+        "visitDate": "2018-11-23"
+      },
+      {
+        "visitId": 3,
+        "attraction": {
+          "attractionId": 3
+        },
+        "visitDate": "24-11-2018"
+      }
+    ],
+    "startDate": "2018-11-20",
+    "endDate": "2018-11-25"
+  },
+  {
+    "id": 2,
+    "user": {
+      "userId": 1
+    },
+    "destination": {
+      "destinationId": 2
+    },
+    "visits": [
+      {
+        "visitId": 4,
+        "attraction": {
+          "attractionId": 4
+        },
+        "visitDate": "2019-08-03"
+      },
+      {
+        "visitId": 5,
+        "attraction": {
+          "attractionId": 5
+        },
+        "visitDate": "2019-08-04"
+      }
+    ],
+    "startDate": "2019-08-03",
+    "endDate": "2019-08-05"
+  },
+  {
+    "id": 3,
+    "user": {
+      "userId": 1
+    },
+    "destination": {
+      "destinationId": 3
+    },
+    "visits": [
+      {
+        "visitId": 6,
+        "attraction": {
+          "attractionId": 6
+        },
+        "visitDate": "No_Date"
+      },
+      {
+        "visitId": 7,
+        "attraction": {
+          "attractionId": 7
+        },
+        "visitDate": "2020-01-02"
+      }
+    ],
+    "startDate": "2019-12-27",
+    "endDate": "2020-01-02"
+  }
+]
